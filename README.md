@@ -1,4 +1,4 @@
-# news
+# Vue/news
 vue仿今日头条
 1.使用 
  1. npm install
